@@ -70,7 +70,7 @@
 
 ## 🌱 Ahora mismo estoy
 
-- 📖 Aprendiendo: Python avanzado, POO y Tkinter
+- 📖 Aprendiendo: Python avanzado, Analisis de datos
 - 🔨 Construyendo: más proyectos web y apps de escritorio
 - 🎯 Próximo objetivo: aprender JavaScript y Git a fondo
 
@@ -82,10 +82,12 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-facu__8818-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/facu_8818)
 [![Facebook](https://img.shields.io/badge/Facebook-facu.teilleri-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/facu.teilleri)
-<!-- Agregá tu LinkedIn y email cuando quieras:
+[![Gmail](https://img.shields.io/badge/Gmail-facundoteilleri21@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:facundoteilleri21@gmail.com)
+
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Tu_Nombre-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/TU-USUARIO)
-[![Gmail](https://img.shields.io/badge/Gmail-tu--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu-mail@gmail.com)
--->
+
+
 
 </div>
 
