@@ -16,7 +16,6 @@
 - 🎓 Estoy aprendiendo programación y mejorando un poco cada día
 - 🐍 Actualmente profundizando en **Python, Base de datos, codigo PAWN y Power BI** (incluyendo interfaces gráficas con **Tkinter**)
 - 🌐 Desarrollando proyectos **webs** con HTML, CSS, JS (Incluyendo alertas con **SweetAlert2**)
-- 🇦🇷 Desde Buenos Aires, Argentina
 - 💼 Abierto a oportunidades, prácticas y proyectos colaborativos
 - 🎯 Objetivo: convertirme en desarrollador profesional
 
