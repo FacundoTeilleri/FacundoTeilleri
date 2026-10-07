@@ -14,7 +14,7 @@
 ## 👨‍💻 Sobre mí
 
 - 🎓 Estoy aprendiendo programación y mejorando un poco cada día
-- 🐍 Actualmente profundizando en **Python** (incluyendo interfaces gráficas con **Tkinter**)
+- 🐍 Actualmente profundizando en **Python, Base de datos, codigo PAWN y Power BI** (incluyendo interfaces gráficas con **Tkinter**)
 - 🌐 Desarrollando mis primeros proyectos **web** con HTML y CSS
 - 🇦🇷 Desde Buenos Aires, Argentina
 - 💼 Abierto a oportunidades, prácticas y proyectos colaborativos
