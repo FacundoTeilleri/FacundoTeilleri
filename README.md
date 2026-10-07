@@ -73,7 +73,7 @@
 
 - 📖 Aprendiendo: Python avanzado, Analisis de datos, PAWN
 - 🔨 Construyendo: más proyectos web y apps de escritorio
-- 🎯 Próximo objetivo: Profundizar Base de datos y aprender PAWN y Servidores Linux  
+- 🎯 Próximo objetivo: Profundizar Base de datos, aprender PAWN y Servidores Linux  
 
 ---
 
