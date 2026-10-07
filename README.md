@@ -71,9 +71,9 @@
 
 ## 🌱 Ahora mismo estoy
 
-- 📖 Aprendiendo: Python avanzado, Analisis de datos
+- 📖 Aprendiendo: Python avanzado, Analisis de datos, PAWN
 - 🔨 Construyendo: más proyectos web y apps de escritorio
-- 🎯 Próximo objetivo: aprender JavaScript y Git a fondo
+- 🎯 Próximo objetivo: Profundizar Base de datos y aprender PAWN 
 
 ---
 
