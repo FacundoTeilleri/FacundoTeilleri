@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A1F44,60:0A66C2,100:00C389&height=230&section=header&text=Facundo%20Teilleri&fontSize=54&fontColor=ffffff&fontAlignY=36&desc=Desarrollador%20Web%20Junior%20%7C%20Python%20%7C%20JavaScript%20%7C%20SQL&descAlignY=58&descSize=19&descColor=E6F7F1&animation=fadeIn" width="100%" alt="Facundo Teilleri - Desarrollador Web Junior"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=00C389&center=true&vCenter=true&width=700&lines=Desarrollador+web+junior+en+Buenos+Aires;Python+%7C+JavaScript+%7C+SQL+%7C+Git;Construyo+proyectos+reales+y+los+publico;Disponible+para+mi+primera+oportunidad+IT" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=00C389&center=true&vCenter=true&width=700&lines=Desarrollador+web+junior;Python+%7C+JavaScript+%7C+SQL+%7C+Git;Construyo+proyectos+reales+y+los+publico;Disponible+para+mi+primera+oportunidad+IT" alt="Typing SVG" />
 
 <br/>
 
